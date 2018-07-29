@@ -1,0 +1,13 @@
+c:\users\ssrivastava\source\repos\BankingSystem\Host\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+c:\users\ssrivastava\source\repos\BankingSystem\Host\Host\bin\Debug\Host.exe.config
+c:\users\ssrivastava\source\repos\BankingSystem\Host\Host\bin\Debug\Host.exe
+c:\users\ssrivastava\source\repos\BankingSystem\Host\Host\bin\Debug\Host.pdb
+c:\users\ssrivastava\source\repos\BankingSystem\Host\Host\bin\Debug\BusinessLogic.dll
+c:\users\ssrivastava\source\repos\BankingSystem\Host\Host\bin\Debug\Entities.dll
+c:\users\ssrivastava\source\repos\BankingSystem\Host\Host\bin\Debug\DataAccess.dll
+c:\users\ssrivastava\source\repos\BankingSystem\Host\Host\bin\Debug\BusinessLogic.pdb
+c:\users\ssrivastava\source\repos\BankingSystem\Host\Host\bin\Debug\Entities.pdb
+c:\users\ssrivastava\source\repos\BankingSystem\Host\Host\bin\Debug\DataAccess.pdb
+c:\users\ssrivastava\source\repos\BankingSystem\Host\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache
+c:\users\ssrivastava\source\repos\BankingSystem\Host\Host\obj\Debug\Host.exe
+c:\users\ssrivastava\source\repos\BankingSystem\Host\Host\obj\Debug\Host.pdb

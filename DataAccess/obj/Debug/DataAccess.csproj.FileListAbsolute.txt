@@ -1,0 +1,8 @@
+c:\Users\ssrivastava\source\repos\BankingSystem\Host\DataAccess\bin\Debug\DataAccess.dll
+c:\Users\ssrivastava\source\repos\BankingSystem\Host\DataAccess\bin\Debug\DataAccess.pdb
+c:\Users\ssrivastava\source\repos\BankingSystem\Host\DataAccess\bin\Debug\Entities.dll
+c:\Users\ssrivastava\source\repos\BankingSystem\Host\DataAccess\bin\Debug\Entities.pdb
+c:\Users\ssrivastava\source\repos\BankingSystem\Host\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+c:\Users\ssrivastava\source\repos\BankingSystem\Host\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+c:\Users\ssrivastava\source\repos\BankingSystem\Host\DataAccess\obj\Debug\DataAccess.dll
+c:\Users\ssrivastava\source\repos\BankingSystem\Host\DataAccess\obj\Debug\DataAccess.pdb

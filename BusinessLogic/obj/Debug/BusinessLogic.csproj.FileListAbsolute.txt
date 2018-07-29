@@ -1,0 +1,10 @@
+c:\Users\ssrivastava\source\repos\BankingSystem\Host\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+c:\Users\ssrivastava\source\repos\BankingSystem\Host\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+c:\Users\ssrivastava\source\repos\BankingSystem\Host\BusinessLogic\bin\Debug\BusinessLogic.dll
+c:\Users\ssrivastava\source\repos\BankingSystem\Host\BusinessLogic\bin\Debug\BusinessLogic.pdb
+c:\Users\ssrivastava\source\repos\BankingSystem\Host\BusinessLogic\bin\Debug\DataAccess.dll
+c:\Users\ssrivastava\source\repos\BankingSystem\Host\BusinessLogic\bin\Debug\Entities.dll
+c:\Users\ssrivastava\source\repos\BankingSystem\Host\BusinessLogic\bin\Debug\DataAccess.pdb
+c:\Users\ssrivastava\source\repos\BankingSystem\Host\BusinessLogic\bin\Debug\Entities.pdb
+c:\Users\ssrivastava\source\repos\BankingSystem\Host\BusinessLogic\obj\Debug\BusinessLogic.dll
+c:\Users\ssrivastava\source\repos\BankingSystem\Host\BusinessLogic\obj\Debug\BusinessLogic.pdb
